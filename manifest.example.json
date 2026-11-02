@@ -1,0 +1,4 @@
+{
+  "train": [{"case_id": "train_case", "paths": ["features/slide1.pt", "features/slide2.pt"]}],
+  "val": [{"case_id": "val_case", "paths": ["features/slide3.pt"]}]
+}

@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+runs/
+data/
+features/
+*.pt
+*.pth
+*.ckpt
+.env
+.env.*

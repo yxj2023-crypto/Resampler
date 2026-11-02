@@ -1,0 +1,7 @@
+{
+  "src/modules/util_layer.py": "3c72c554ca6bb918d4da0150c25fd231fb7bcb2c0eea9c77aae4425aaba28f98",
+  "src/modules/perceiver_layer.py": "ec63b0259a4971c06eb4b5a6af3348376419badb5ca0a64e7bfced2829869061",
+  "src/modules/resampler.py": "4adf0acf1cba54c4b221d055173e5fadff1ccffabe45b36c8f977932d33cc85d",
+  "experiments/perceiver_orthogonal/model.py": "b52fc230a6128d7e73831394f5c2f959bdffcde6cb9aa4591be0ab41d8397334",
+  "experiments/perceiver_orth_rec/model.py": "536e7e6f54b48a4087e1480717291f165598bedff73ce4a4562901740377b645"
+}
